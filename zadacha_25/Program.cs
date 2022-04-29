@@ -1,7 +1,7 @@
 ﻿int Stepen (int osnova, int stepen)
 {
     int result = 1;
-    for (int i = 0; i < stepen; i++)
+    for (int i = 1; i <= stepen; i++)
     {
         result = result * osnova;
     }

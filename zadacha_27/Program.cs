@@ -9,4 +9,4 @@
     return Math.Abs(result);
 }
 
-System.Console.WriteLine(Summa(-65));
+System.Console.WriteLine(Summa(-9012));
